@@ -29,6 +29,7 @@ pub use skyline_macro;
 
 /// Types and functions for working with hooking
 pub mod hooks;
+pub mod And64InlineHook;
 
 /// Types and functions for logging and debugging
 pub mod logging;
